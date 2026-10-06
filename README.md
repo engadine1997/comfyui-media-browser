@@ -36,5 +36,18 @@ An explorer-style browser for ComfyUI's `input` and `output` folders. Open it wi
 # Performance
 - Highly performant, featuring **server-side paging with virtual scrolling** and extensive **caching**.
 
+# Installation
+
+Install like any other custom node:
+
+Clone this repo to your `custom_nodes` folder:
+
+```shell
+cd C:/path/to/comfyui/custom_nodes
+git clone https://github.com/engadine1997/comfyui-media-browser.git
+```
+
+*fin*
+
 ## Disclaimer
 This was entirely vibe-coded with **Claude Code**. I am a programmer and have reviewed the code, and it works well in my testing and for my use cases.
